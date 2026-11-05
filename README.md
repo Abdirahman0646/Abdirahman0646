@@ -1,7 +1,7 @@
 <!-- Profile image -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/4537176b-a0f0-4bfc-85d6-6ab1602801a4" alt="Abdirahman Hussein" width="180" style="border-radius:50%;" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm Abdirahman Hussein</h1>
 <p align="center">
